@@ -1,3 +1,4 @@
+
 const utils = require('./index')
 
 describe('[Exercise 1] trimProperties', () => {
